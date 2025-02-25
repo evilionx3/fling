@@ -1,3 +1,6 @@
+-- reigs suggested to reupload this script, as the original pastebin got taken down.
+-- found it on the internet archive
+
 pcall(function()
 --[[Fling GUI]]--
 --[[Made by topit for the Jeff GUI]]--
