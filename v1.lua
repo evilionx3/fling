@@ -1,3 +1,4 @@
+pcall(function()
 --[[Fling GUI]]--
 --[[Made by topit for the Jeff GUI]]--
 
@@ -755,3 +756,4 @@ DisplaySuggestion()
 TitleBar:TweenPosition(UDim2.new(0.25, 0, 0.7, 0), Enum.EasingDirection.Out, Enum.EasingStyle.Back, 0.75)
 DisplayText("Loaded Fling GUI "..version, "Made by topit", 3)
 return nil
+end)
